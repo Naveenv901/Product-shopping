@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    align-items: center;
+    align-content: center;
+    margin-left: 450px;
+    width: 400px;
+}
+table,tr,td{
+    border-width: 2rem;
+}
+h1{
+  text-align: center;
+}
+p{
+    margin-left: 20px;
+}
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    background-color: green;
+}
+button:hover{
+    cursor: pointer;
+    zoom: 105%;
+    background-color: chartreuse;
+}
+td{
+    margin-top: 10px;
+    padding: 10px;
+}
+table,tr,td{
+    border: solid 1px black;
+   border-spacing: 1rem;
+}
+table tr{
+    padding: 1rem;
+}
